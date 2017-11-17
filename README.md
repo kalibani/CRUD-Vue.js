@@ -1,5 +1,4 @@
 # CRUD and Search Using Vue.js
 
-run 'npm install' in the command line
-run 'npm run dev'
+run 'npm install' and 'npm run dev' in the command line
 
